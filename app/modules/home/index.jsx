@@ -94,7 +94,7 @@ class Join extends Component {
     return (
       <div style={{ padding: 20 }}>
         <Card raised className={style.join}>
-          <CardMedia style={{ backgroundColor: '#EEE' }}>
+          <CardMedia style={{ backgroundColor: '#5E717A' }}>
             <img
               alt="Background image"
               src={ backgroundImage }

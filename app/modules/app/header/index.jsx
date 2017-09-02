@@ -48,7 +48,7 @@ Header.defaultTypes = {
   user: null,
   goToHomepage: noop,
   strings: {
-    subtitle: 'A good way of ranting in an orderly fashion'
+    subtitle: 'version 1.0'
   }
 };
 
