@@ -25,7 +25,7 @@ const Header = ({ strings, goToHomepage, user }) => (
   <div>
     <AppBar fixed className={style.header}>
       <div className={style.titles}>
-        <a onClick={goToHomepage}>Retrospected <br />
+        <a onClick={goToHomepage}>ARC <br />
           <span className={style.subtitle}>{ strings.subtitle }</span>
         </a>
       </div>

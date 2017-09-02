@@ -1,6 +1,6 @@
 export default {
   Header: {
-    subtitle: 'A good way of ranting in an Agile way',
+    subtitle: 'version 1.0',
     logout: 'Logout',
     leave: 'Leave',
     summaryMode: 'Summary Mode'
@@ -18,18 +18,18 @@ export default {
     noContent: '(This post has no content)'
   },
   PostBoard: {
-    notWellQuestion: 'What could be improved?',
-    wellQuestion: 'What went well?',
-    ideasQuestion: 'A brilliant idea to share?'
+    notWellQuestion: 'Editor',
+    wellQuestion: 'Photographer',
+    ideasQuestion: 'Stylist'
   },
   Clients: {
     header: 'Kindly joining us right now:'
   },
   Join: {
-    welcome: 'Welcome to Retrospected',
+    welcome: 'ARC Dashboard',
     standardTab: {
       header: 'Create',
-      text: 'Click below and start retrospecting:',
+      text: 'Click below and start ARC session:',
       button: 'Create a new session'
     },
     advancedTab: {
@@ -43,20 +43,20 @@ export default {
     }
   },
   Login: {
-    namePlaceholder: 'Who are you exactly? Enter your name here',
+    namePlaceholder: 'username',
     buttonLabel: 'Let\'s start'
   },
   SummaryBoard: {
     noPosts: 'There are no posts to display'
   },
   SessionName: {
-    defaultSessionName: 'My Retrospective'
+    defaultSessionName: 'My ARC board'
   },
   Invite: {
     inviteButton: 'Invite',
     dialog: {
-      title: 'Invite people to your retrospective',
-      text: 'To invite people to your retrospected session, simply send them ' +
+      title: 'Invite people to your board',
+      text: 'To invite people to your ARC board, simply send them ' +
                   'the following URL',
       copyButton: 'Copy URL to Clipboard'
     }

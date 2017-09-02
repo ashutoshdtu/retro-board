@@ -1,6 +1,6 @@
 export default {
   Header: {
-    subtitle: 'Un bon moyen de râler de façon Agile',
+    subtitle: 'version 1.0',
     logout: 'Déconnexion',
     leave: 'Sortir',
     summaryMode: 'Mode Résumé'
@@ -18,18 +18,18 @@ export default {
     noContent: '(Aucun contenu)'
   },
   PostBoard: {
-    notWellQuestion: 'Des améliorations ?',
-    wellQuestion: 'Qu\'est-ce qui s\'est bien passé ?',
-    ideasQuestion: 'Une bonne idée à partager ?'
+    notWellQuestion: 'Editor',
+    wellQuestion: 'Photographe',
+    ideasQuestion: 'Stylist'
   },
   Clients: {
     header: 'Nos invités du moment:'
   },
   Join: {
-    welcome: 'Bienvenue',
+    welcome: 'ARC Dashboard',
     standardTab: {
       header: 'Créer',
-      text: 'Cliquez ci-dessous et commencez à retrospecter:',
+      text: 'Cliquez ci-dessous et commencez une session ARC',
       button: 'Créer une nouvelle session'
     },
     advancedTab: {
@@ -43,21 +43,20 @@ export default {
     }
   },
   Login: {
-    namePlaceholder: 'Qui êtes-vous au juste? Entrez votre nom ici',
+    namePlaceholder: 'username',
     buttonLabel: 'C\'est parti !'
   },
   SummaryBoard: {
     noPosts: 'Aucun post à afficher'
   },
   SessionName: {
-    defaultSessionName: 'Ma Retrospective'
+    defaultSessionName: 'Mon tableau ARC'
   },
   Invite: {
     inviteButton: 'Inviter',
     dialog: {
       title: 'Invitez des participants à votre retrospective',
-      text: 'Pour inviter des participants à votre session retrospected, ' +
-                  'envoyez leur le lien suivant',
+      text: 'Pour inviter des personnes à votre conseil d\'administration d\'ARC, il suffit de les envoyer à l\'URL suivant',
       copyButton: 'Copier'
     }
   }

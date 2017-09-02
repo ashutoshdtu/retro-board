@@ -128,10 +128,10 @@ Join.defaultProps = {
   createSession: noop,
   goToSession: noop,
   strings: {
-    welcome: 'Welcome to Retrospected',
+    welcome: 'ARC Dashboard',
     standardTab: {
       header: 'Create a Session',
-      text: 'Click below and start retrospecting:',
+      text: 'Click below and start ARC session:',
       button: 'Create a new session'
     },
     advancedTab: {
